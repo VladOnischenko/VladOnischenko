@@ -1,10 +1,7 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Nazar</h1>
+<h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">Highly motivated frontend developer from Ukraine</h3>
 
 <!--
-**ZaharBerku/ZaharBerku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning Node.js, Next.js 
 - 💬 Ask me about JS, React.js
-- 📫 How to reach me: zaharberku@gmail.com
+- 📫 How to reach me: vlad.onishchenko63@gmail.com
 - ⚡ Fun fact: If the cat likes to sleep on the keyboard, it means that in a past life he was a programmer.
 
 ### Languages and Tools:
