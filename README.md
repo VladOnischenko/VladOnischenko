@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Portfolio
-- 🌱 I’m currently learning Node.js, Next.js, TypeScript
+- 🌱 I’m currently learning Node.js, TypeScript
 - 💬 Ask me about JS, React.js
 - 📫 How to reach me: vlad.onishchenko63@gmail.com
 - ⚡ Fun fact: If the cat likes to sleep on the keyboard, it means that in a past life he was a programmer.
